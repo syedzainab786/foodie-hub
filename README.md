@@ -60,3 +60,5 @@ Foodie Hub is a full-stack web application designed for online food ordering and
    - Run `catalina.bat run` or `startup.bat`.
 3. **Open in Browser:**
    - Navigate to: `http://localhost:8080/foodhub/restaurants`
+   - https://illustrations-cable-loans-alive.trycloudflare.com/
+     
