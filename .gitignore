@@ -1,0 +1,17 @@
+# Compiled class files
+build/
+bin/
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.war
+*.ear
+
+# OS / Editor temporary files
+temp/
+tmp/
+.DS_Store
+Thumbs.db
